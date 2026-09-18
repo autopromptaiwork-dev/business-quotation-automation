@@ -50,8 +50,13 @@ Once the required quotation information is submitted, the automation processes t
 | ↓ | Create final quotation PDF |
 | 7 | Gmail / Email Delivery |
 | | Deliver completed quotation |
+### Workflow Architecture
 ![Quotation Automation Workflow](quotation-workflow-architecture.png.jpg)
+### System Architecture
 ![Quotation System Architecture](quotation-system-architecture.png.png)
+### Automated Email Delivery
+
+![Quotation Email Delivery](quotation-email-delivery.png.png)
 
 ## Key Automation Steps
 
